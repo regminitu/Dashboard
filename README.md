@@ -1,2 +1,2 @@
 # Dashboard
-One of visualization created using tableau using actions, filters, hierarchies, KPI
+One of visualization created in tableau using actions, filters, hierarchies and KPI
